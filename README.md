@@ -1,10 +1,10 @@
 # Exercícios de Programação - Semestre 1
 
-![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/PTBALPR-sem1?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/PTBALPR-sem1?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/m-zanqueta/PTBALPR-sem1?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/PTBALPR-sem1?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/PTBALPR-sem1?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/sem1_ifsp?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/sem1_ifsp?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/m-zanqueta/sem1_ifsp?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/sem1_ifsp?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/sem1_ifsp?style=for-the-badge)
 
 
 <img src="https://github.com/user-attachments/assets/85ea2fff-961e-4e9b-b746-e4c90633c1b2" width="300px;" alt="logo prisma"/><br>

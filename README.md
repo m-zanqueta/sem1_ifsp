@@ -6,8 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/sem1_ifsp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/sem1_ifsp?style=for-the-badge)
 
-
-<img src="https://github.com/user-attachments/assets/85ea2fff-961e-4e9b-b746-e4c90633c1b2" width="300px;" alt="logo ifsp"/><br>
+<img src="https://github.com/user-attachments/assets/ce95826d-303e-4de9-9d4f-e6b1baf86a83" width="300px;" alt="logo ifsp"/><br>
 
 
 
